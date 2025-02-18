@@ -143,7 +143,7 @@ max_rise_df = pd.DataFrame(list(max_increase_days.items()), columns=['CODE', 'ma
 
 ---
 
-# Resource
+# Resource 
 
 - [Read the e-book "SPL Programming"](https://www.esproc.com/html/SPL-programming-book.html)
 - [Watch the video "SPL video course"](https://www.esproc.com/html/SPL-programming-course.html)
